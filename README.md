@@ -253,7 +253,3 @@ Es el archivo central del proyecto; sin él, el entorno no puede desplegarse.
 ## 13. Conclusión del Desglose
 
 Este desglose detalla todos los recursos, configuraciones y procedimientos necesarios para llevar a cabo el proyecto de forma correcta, ordenada y ética, garantizando tanto el aprendizaje técnico como la comprensión de la importancia de la seguridad defensiva.
-
----
-
-**Fin del desglose del proyecto**
